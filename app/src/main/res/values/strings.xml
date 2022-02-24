@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Magma Android Task</string>
+    <string name="home">Home</string>
+    <string name="splash">Splash</string>
+    <string name="enable_gps">Please enable GPS</string>
+    <string name="cancel">Cancel</string>
+    <string name="restart_app_after_enabling_gps">Please restart app after enabling GPS</string>
+    <string name="open_location_settings">Please open location settings</string>
+    <string name="gps_network_not_enabled">GPS network not enabled</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-2559564046715323/2204952129</string>
+
+</resources>

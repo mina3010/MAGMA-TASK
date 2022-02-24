@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1037532583247",
+    "project_id": "magma-task",
+    "storage_bucket": "magma-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037532583247:android:dffbe5a86abade0c3a613a",
+        "android_client_info": {
+          "package_name": "com.mina_magid.magmaandroidtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037532583247-h5lnbdpqei0ctvckbsqu4o4esfobdubu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mina_magid.magmaandroidtask",
+            "certificate_hash": "b05bba0b584c73924ad2490578d1322e692df1bc"
+          }
+        },
+        {
+          "client_id": "1037532583247-i92u7s5dsbc4q3iotkov0lfki9ls6qp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK0TuVAWC_v7Yfh49v8y_TNs7SbDOeHDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037532583247-i92u7s5dsbc4q3iotkov0lfki9ls6qp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
